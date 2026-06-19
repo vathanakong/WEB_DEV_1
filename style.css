@@ -2,3 +2,11 @@ body {
   font-family: 'Time new romance';
 }
 
+nav{
+  display: flex;
+  justify-content: space-around;
+  ul{
+    list-style-type: none;
+    color: white;
+  }
+}
